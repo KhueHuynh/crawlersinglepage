@@ -1,0 +1,29 @@
+{
+  "name": "Crawler",
+  "version": "0.0.1",
+  "description": "Crawler via search bot",
+  "main": "main.js",
+  "engines": {
+    "node": "^6.11.3"
+  },
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributors": [
+    {
+      "name": "Khue Huynh"
+    }
+  ],
+  "license": "UNLICENSED",
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.4",
+    "simplecrawler": "^1.1.5"
+  },
+  "devDependencies": {}
+}

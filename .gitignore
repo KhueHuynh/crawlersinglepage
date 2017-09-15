@@ -1,0 +1,6 @@
+node_modules
+build
+coverage
+/.project
+.DS_Store
+.DS_Store?
